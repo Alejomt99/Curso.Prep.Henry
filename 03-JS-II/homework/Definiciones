@@ -1,0 +1,21 @@
+# Homework: Javascript II
+--
+// DEFINICIONES:
+//
+//  `for`: 
+// El bucle 'for' se utiliza para repetir una o varias instrucciones durante un 
+// determinado número de veces. En su estructura, primero se define la variable, luego
+// se determina el punto en que la función se termina y por último se determina el
+// incremento que debe llevar.
+//
+//  `&&`: 
+// Es un operador lógico que corresponde a "And", se representa con los símbolos '&&'
+//  y retornará un valor booleano. Devolverá 'true' si ambas expresiones son verdaderas.
+//
+//  `||`:
+// Es el operador lógico que corresponde a "Or", se representa con los símbolos '||'
+// y retornará un valor booleano. Devolverá 'true' si una o ambas expresiones son verdaderas.
+//
+//  `!`:
+// Es un operador de negción, se representa con el signo de admiración (!) y retornará
+// el valor booleano opuesto al que se le pase.

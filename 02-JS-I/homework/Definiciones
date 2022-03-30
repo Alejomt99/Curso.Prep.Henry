@@ -1,0 +1,48 @@
+# Homework: Introducción a Javascript
+--
+// 1. DEFINICIONES:
+//  * Variables:
+//   Las variables son como cajitas donde se guarda algún valor
+//   para ser usado más tarde. 
+//   La forma correcta de escribirlas es:
+//   Se usa la palabra clave "var" seguido de un espacio y el 
+//   nombre de la variable. 
+//	* Strings:
+//   Los Strings son cadenas de carácteres que van encerrados en
+//   comillas, ya sean sencillas o dobles.
+//	* Funciones (argumentos, `return`):
+//   Las funciones son objetos que nos sirven para calcular o 
+//   hacer cambios en las variables que se encuentren en ellas.
+//   Argumentos: 
+//   Los argumentos son un tipo especial de datos que se encuentran
+//   en el interior de una función y se encarga de recibir los 
+//   parámetros que se envían a esta.
+//   'return':
+//   Es la sentencia que culmina la ejecución de una función y determina
+//   el valor que será devuelto al llamado de la funsión.
+//	* Declaraciones `if`:
+//  If es un operador de comparación que verifica si algo es verdadero
+//  (true) y ejecuta o no las instrucciones dadas.
+//	* Valores booleanos (`true`, `false`):
+//  Los valores booleanos son datos que sólo nos pueden arrojar dos
+//  respuestas, 'true' o 'false', 'si' o 'no', 'on' o 'off'.
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
