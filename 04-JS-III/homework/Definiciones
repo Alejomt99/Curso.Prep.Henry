@@ -1,0 +1,10 @@
+# Homework: Javascript III
+--
+// DEFINICIONES:
+//
+//  Arrays: 
+// Los Arrays (arreglos), son listas de elementos ordenadas según 
+// unos determinados parámetros. Se definen por los arreglos '[]'
+// Estos, pueden contener cualquier tipo de datos y nos permite
+// acceder a cualquiera de los datos que se almacenen allí adentro
+// haciendo el respectivo llamado al arreglo.
