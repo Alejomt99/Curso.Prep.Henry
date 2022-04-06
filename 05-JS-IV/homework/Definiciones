@@ -1,0 +1,32 @@
+# Homework: Javascript IV
+--
+// DEFINICIONES:
+//
+//  * Objetos:
+// Los objetos son contenedores para almacenar colecciones de 
+// varios datos y entidades más complejas asociados a una palabra
+// clave.
+//
+//	* Propiedades: 
+// Una propiedad es una asocación entre una palabra clave y un
+// valor.
+//
+//	* Métodos:
+// Se le conoce a si a las funciones que se encuentran dentro de
+// un objeto.
+//
+//	* Bucle `for…in`:
+// El bucle for...in es la adaptación del bucle for que utilizamos
+// en las matrices, pero como en los objetos no encontramos índices
+// numéricos, utilizamos el bucle for...in para poder iterar sobre 
+// cada par clave-valor de nuestro objeto.
+//
+//	* Notación de puntos vs notación de corchetes: 
+//  La diferencia entre estas dos notaciones es que la Notación de 
+//  puntos (Dot Notation), aunque es más sencilla en su sintaxis, 
+//  es literal, es decir que va directo al objeto y no nos permite
+//  crear variables para indicar una propiedad. En cambio con la
+//  notación de corchetes (Bracket Notation) tenemos un sintaxis 
+//  un poco más larga, pero nos permite declarar nuevas variables 
+//  como una especie de acceso directo a las propiedades de nuestro
+//  objeto.
