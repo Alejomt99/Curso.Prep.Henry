@@ -1,0 +1,11 @@
+# Homework: Javascript V
+--
+// DEFINICIONES:
+//
+//  * `prototype`:
+// Los protoripos básicamente son un mecanismo de Javascript que permite
+// a los objetos heredar características entre si.
+//
+//	* _Constructors_ (de Clases): 
+// El constructor es el código que conforma y configura un objeto que se 
+// crea con la key word new.
